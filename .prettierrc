@@ -1,0 +1,8 @@
+{
+  'singleQuotte': true, //使用单引号
+  'endOfLine': "auto", //结尾是auto
+  'printWidth': 160, //最长160个字符
+  'tableWidth': 4, // 换行的长度
+  'semi': true, //结尾添加分号
+  'bracketSpacing': true, //允许有空格
+}
